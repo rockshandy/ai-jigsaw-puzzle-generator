@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Jigsaw Puzzle Generator",
+  "description": "Generate an image from a prompt and solve it as a jigsaw puzzle. Choose the number of pieces and arrange them to reveal the final image."
+}
